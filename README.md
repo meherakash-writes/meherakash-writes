@@ -11,7 +11,7 @@ Ever Since I came across Programs had always been my thing . I learned Java, C a
 *   ✉️  You can contact me at [meherakash.writes@gmail.com](mailto:meherakash.writes@gmail.com)
 *   🚀  I'm currently working on [Chandler Player(Video Player written in Python)](http://github.com/meherakash-writes/Chandler-Player)
 *   🧠  I'm learning ML & AI,Python Projects,C++ STL & newly introduced concepts, Mainframe Assembler zOS
-*   🤝  I'm open to collaborating on Open Source Projects, Linux Kernel Projects, Linux Ricing setups, New Display manager for linux.
+*   🤝  I'm open to collaborating on Open Source Projects, Linux Kernel Projects, Linux Ricing setups, New Display manager for linux & Bootloader Theming.
 *   ⚡  I go through any of books I could lay my hands on related to Software Development and also otherwise.Books make me get going.
 
 ### Skills
