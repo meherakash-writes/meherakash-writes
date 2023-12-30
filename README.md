@@ -8,8 +8,9 @@
   </a>
 </h1>
 <br/>
-Software Engineer
------------------
+
+### Software Engineer
+
 
 Ever Since I came across Programs had always been my thing . I learned Java, C and C++ and later Assembly (after coming to industry) so you see I traversed from high level language to moderate level to low level language. Zeal of learning and understanding made me wonder always to inspect 'Why' before 'How to do' ●Pointers stores addresses .... Why ? ●Static creates a single copy of object .... Why ? And etcetera . Concepts get really well this way .
 
