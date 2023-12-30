@@ -1,15 +1,13 @@
-<img align="right" src="https://visitor-badge.laboi.icu/badge?pageid=meherakash-writes.meherakash.writes" /> 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=meherakash-writes.meherakash-writes" /> 
 
 <h1 align="center">
   <a href="https://git.to/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?
-     font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi !+I'm+Akash+Yadav;" \>
-
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Akash+Yadav!;"\>
   
-  <h3 align="center"> =================================================================================================================================== </h3>
+  <h4 align="center"> A passionate software developer from India </h4>
   </a>
 </h1>
-
+<br/>
 Software Engineer
 -----------------
 
